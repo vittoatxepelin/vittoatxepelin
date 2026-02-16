@@ -1,4 +1,4 @@
-<h1 align="center">✨ No testeamos en animales, testamos en producción ✨</h1>
+<h1 align="center">✨ No testamos en animales, testamos en producción ✨</h1>
 
 ###
 
